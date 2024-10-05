@@ -1,5 +1,7 @@
 # EaglerCraftX Server
 
+#Do NOT join this server, unless my friends.
+
 ## Credits
 Original Project: Lax1Dude
 <br>
